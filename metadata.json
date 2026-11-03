@@ -1,0 +1,6 @@
+{
+  "name": "ArchiCalc Py — Calculadora Técnica de Interiores & Estúdio Python",
+  "description": "Calculadora técnica de arquitetura de interiores (piso com margem de recorte, pintura de paredes, BTUs de ar-condicionado e matemática básica) com código Python didático e guia interativo de arquitetura backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
