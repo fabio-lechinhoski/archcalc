@@ -1,7 +1,6 @@
 """
 ArchiCalc Py — Calculadora Técnica de Interiores & Operações Básicas
 ====================================================================
-Módulo didático em Python 3 para quem está retomando a programação.
 
 Principais conceitos utilizados:
 1. Type Hints (float, int, str, dict): Documentam os tipos esperados.
