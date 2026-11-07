@@ -6,11 +6,11 @@ O **ArchiCalc** automatiza cálculos técnicos e quantitativos de obra que costu
 
 ## 🛠️ Tecnologias e Stack
 
-* **Core:** React, TypeScript, Vite
-* **Estilização:** CSS3 (Flexbox, Grid Layout, Dark/Light Mode)
-* **Qualidade & Testes:** Testes unitários automatizados (calculators.test.ts)
-* **Exportação & Automação:** Geração de relatórios em PDF (pdfMemorial.ts) e templates em Python (pythonTemplates.ts)
-* **Integração IA:** Gemini API
+- **Core:** React, TypeScript, Vite
+- **Estilização:** CSS3 (Flexbox, Grid Layout, Dark/Light Mode)
+- **Qualidade & Testes:** Testes unitários automatizados (calculators.test.ts)
+- **Exportação & Automação:** Geração de relatórios em PDF (pdfMemorial.ts) e templates em Python (pythonTemplates.ts)
+- **Integração IA:** Gemini API
 
 ## ✨ Funcionalidades
 
@@ -24,5 +24,18 @@ O **ArchiCalc** automatiza cálculos técnicos e quantitativos de obra que costu
 
 **Pré-requisitos:** Node.js instalado.
 
-1. Clone o repositório: 
-git clone https://github.com/fabio-lechinhoski/archcalc.git
+1. Clone o repositório:
+```bash
+git clone [https://github.com/fabio-lechinhoski/archcalc.git](https://github.com/fabio-lechinhoski/archcalc.git)
+```
+
+2. Acesse a pasta do projeto e instale as dependências:
+```bash
+cd archcalc
+npm install
+```
+
+3. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
