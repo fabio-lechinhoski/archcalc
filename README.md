@@ -26,7 +26,7 @@ O **ArchiCalc** automatiza cálculos técnicos e quantitativos de obra que costu
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/fabio-lechinhoski/archcalc.git](https://github.com/fabio-lechinhoski/archcalc.git)
+git clone https://github.com/fabio-lechinhoski/archcalc.git
 ```
 
 2. Acesse a pasta do projeto e instale as dependências:
