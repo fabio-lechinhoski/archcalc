@@ -24,4 +24,5 @@ O **ArchiCalc** automatiza cálculos técnicos e quantitativos de obra que costu
 
 **Pré-requisitos:** Node.js instalado.
 
-1. Clone o repositório: git clone https://github.com/fabio-lechinhoski/archcalc.git
+1. Clone o repositório: 
+git clone https://github.com/fabio-lechinhoski/archcalc.git
